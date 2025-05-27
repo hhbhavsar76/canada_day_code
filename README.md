@@ -12,3 +12,13 @@ This project uses historical weather data from Environment and Climate Change Ca
 
 - R Studio(`weathercan`, `ggplot2`, `patchwork`, `tidyverse`)
 - ArcGIS StoryMap
+
+## Acknowledgments
+
+This project was completed by:
+**Hiral Bhavsar**, **Miyuki Niyungeko**, **Dara Bird**, Department of Geography and Environmental Studies, Wilfrid Laurier University  
+
+This project was completed with the support and guidance of:
+
+- **Dr. Robert McLeman**, Department of Geography and Environmental Studies, Wilfrid Laurier University  
+- **Dr. Karim Malik**, Department of Geography, University of Windsor
